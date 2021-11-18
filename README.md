@@ -1,2 +1,2 @@
 # BasicFMSynth
- Basic Fm synth polyphonic
+ Basic Fm synth polyphonic made in max/msp
